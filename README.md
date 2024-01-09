@@ -1,7 +1,10 @@
 ### Hi 👋
 
 Sobre Mí
-¡Hola! Soy Martha, una ingeniera en mecatrónica apasionada por la tecnología y las ciencias. Actualmente, estoy inmersa en el emocionante mundo del desarrollo de software como aprendiz en Laboratoria.
+¡Hola! Soy Martha, una ingeniera en mecatrónica apasionada por la tecnología y las ciencias. Actualmente, estoy inmersa en el emocionante mundo del desarrollo de software como aprendiz en Laboratoria. 
+
+# 💻 Tech Stack:
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🔭 Educación y Trayectoria
 Me gradué en Ingeniería en Mecatrónica y, desde entonces, he estado persiguiendo mi fascinación por la programación. Mi enfoque actual se centra en convertirme en una desarrolladora backend sólida, y estoy emocionada por el desafío que implica aprender y aplicar mis habilidades en el mundo real.
