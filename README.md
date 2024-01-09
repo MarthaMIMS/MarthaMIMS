@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Sobre Mí
+
 ¡Hola! Soy Martha, una ingeniera en mecatrónica apasionada por la tecnología y las ciencias. Actualmente, estoy inmersa en el emocionante mundo del desarrollo de software como aprendiz en Laboratoria. 
 
 # 💻 Tech Stack:
