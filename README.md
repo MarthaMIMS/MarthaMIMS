@@ -15,7 +15,8 @@ Cuando no estoy inmersa en la programación, disfruto de la lectura, especialmen
 ## 🤔 Filosofía de Aprendizaje Continuo
 Creo firmemente en la filosofía de aprendizaje continuo. Cada día es una oportunidad para adquirir nuevos conocimientos y mejorar mis habilidades. Mi objetivo es no solo seguir aprendiendo, sino también compartir mi experiencia y conocimiento con la comunidad.
 
-### 📫 ¡Un placer tenerte aquí mientras navegas por mi rincón en GitHub! Siéntete libre de explorar mis proyectos y no dudes en contactarme para cualquier colaboración o pregunta.
+### 📫 !Hablemos!
+Es un placer tenerte aquí mientras navegas por mi rincón en GitHub. Siéntete libre de explorar mis proyectos y no dudes en contactarme para cualquier colaboración o pregunta.
 
 ### ¡Hagamos que el código cuente!🚀
 
